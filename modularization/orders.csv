@@ -1,0 +1,4 @@
+item,price,quantity,is_member
+Apple,1000,3,True
+Banana,500,5,False
+Orange,1500,2,True

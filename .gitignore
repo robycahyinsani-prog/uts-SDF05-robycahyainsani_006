@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environment
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Output
+modularization/report.txt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Latihan Git
+latihan-git/
